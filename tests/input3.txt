@@ -1,0 +1,7 @@
+Pedro
+A.BB.
+Paulo
+B.AA.
+score Pedro
+score Paulo
+quit

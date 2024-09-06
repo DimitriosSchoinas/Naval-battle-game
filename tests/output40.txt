@@ -1,0 +1,7 @@
+Next player: C3 PO
+The game is over
+.**..*******.***.****C.*.
+.****.*****.****....*.**.
+C3 PO has 1330 points
+R2 D2 has 920 points
+C3 PO won the game!

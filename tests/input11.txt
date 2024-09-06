@@ -1,0 +1,16 @@
+Bob the Builder
+ABB.AAA
+R2 D2
+BBAA..C
+player
+fleet Bob the Builder
+score R2 D2
+player
+fleet Bob the Builder
+player
+fleet R2 D2
+score Bob the Builder
+fleet Bob the Builder
+score R2 D2
+player
+quit

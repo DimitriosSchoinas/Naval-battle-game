@@ -1,0 +1,15 @@
+Pedro
+ABB.AAA
+Joana
+BBAA..C
+player
+fleet Pedro
+score Joana
+fleet Joana
+player
+fleet Joana
+score Pedro
+fleet Pedro
+score Joana
+player
+quit

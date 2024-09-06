@@ -1,0 +1,17 @@
+C3PO
+..AA..B.CCC.
+R2D2
+.D.EE.FFF.G.
+shoot 5
+shoot 7
+shoot 6
+shoot 6
+shoot 11
+shoot 3
+shoot 2
+shoot 11
+fleet C3PO
+fleet R2D2
+score C3PO
+score R2D2
+quit

@@ -1,0 +1,18 @@
+Invalid command
+Nonexistent player
+Nonexistent player
+Invalid shot
+Invalid shot
+Next player: Alice
+007 The Spy has 20 points
+Alice has 200 points
+...X...**...
+I.........**
+The game is over
+The game is over
+The game is over
+*.........**
+...X...**...
+007 The Spy has 120 points
+Alice has 200 points
+Alice won the game!

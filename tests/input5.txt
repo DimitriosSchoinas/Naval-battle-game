@@ -1,0 +1,11 @@
+Paulo
+A.BB.
+Maria
+B.AA.
+PLAYER
+fleet Maria
+FLEET Maria
+SCORE Maria
+score Paulo
+Quit
+quit

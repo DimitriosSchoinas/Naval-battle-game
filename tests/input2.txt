@@ -1,0 +1,6 @@
+Ana
+A.BB.
+Maria
+B.AA.
+player
+quit

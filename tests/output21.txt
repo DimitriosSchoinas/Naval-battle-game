@@ -1,0 +1,5 @@
+..**..*.***.
+.*.**.FFF.*.
+C3PO has 400 points
+R2D2 has 600 points
+R2D2 won the game!

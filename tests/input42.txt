@@ -1,0 +1,31 @@
+007 The Spy
+...X...XX...
+Alice
+I.........KK
+Score 007
+score 007
+fleet Alice Zoe
+shoot 0
+shoot 12
+shoot 1
+shoot 11
+shoot 2
+shoot 12
+shoot 3
+shoot 11
+shoot 13
+player
+shoot 8
+score 007 The Spy
+score Alice
+fleet 007 The Spy
+fleet Alice
+shoot 1
+shoot -5
+shoot 6
+player
+fleet Alice
+fleet 007 The Spy
+score 007 The Spy
+score Alice
+quit

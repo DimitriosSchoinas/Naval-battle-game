@@ -1,0 +1,18 @@
+John
+RRRGG.R.
+Doe
+DD.U.TTT
+player
+shoot 8
+fleet Doe
+score John
+shoot 6
+shoot 6
+shoot 8
+fleet John
+shoot 3
+shoot 7
+shoot 1
+score John
+shoot 5
+quit

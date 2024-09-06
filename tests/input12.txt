@@ -1,0 +1,18 @@
+C 3PO
+ABB.AAA
+R2 D2
+BBAA..C
+player
+fleet BB 8
+score 3PO
+score C
+player
+fleet R2 D2
+player
+fleet C 3PO
+score C 3PO
+fleet R2
+fleet D2
+score R2 D2
+player
+quit

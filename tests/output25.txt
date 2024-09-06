@@ -1,0 +1,6 @@
+Next player: C3PO
+.*.*...*.B.*.
+*.*....*.*..*
+C3PO has 470 points
+R2D2 has 310 points
+C3PO won the game!

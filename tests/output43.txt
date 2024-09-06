@@ -1,0 +1,13 @@
+Invalid command
+Invalid command
+Nonexistent player
+Nonexistent player
+Next player: C3PO
+Invalid shot
+Next player: C3PO
+The game is over
+.**..*******.***.****C.**
+*****.*****.****....*.**.
+C3PO has 1250 points
+R2D2 has 1470 points
+R2D2 won the game!

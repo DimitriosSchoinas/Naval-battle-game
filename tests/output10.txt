@@ -1,0 +1,11 @@
+Next player: Pedro
+ABB.AAA
+Joana has 0 points
+BBAA..C
+Next player: Pedro
+BBAA..C
+Pedro has 0 points
+ABB.AAA
+Joana has 0 points
+Next player: Pedro
+The game was not over yet...

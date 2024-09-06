@@ -1,0 +1,7 @@
+Next player: C3PO
+The game is over
+...A...
+.*.....
+C3PO has 100 points
+R2D2 has 0 points
+C3PO won the game!

@@ -1,0 +1,14 @@
+Next player: C 3PO
+Nonexistent player
+Nonexistent player
+Nonexistent player
+Next player: C 3PO
+BBAA..C
+Next player: C 3PO
+ABB.AAA
+C 3PO has 0 points
+Nonexistent player
+Nonexistent player
+R2 D2 has 0 points
+Next player: C 3PO
+The game was not over yet...

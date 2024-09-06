@@ -1,0 +1,7 @@
+Next player: R2D2
+Next player: C3PO
+..**..*.CCC.
+.D.**.***.**
+C3PO has 700 points
+R2D2 has 300 points
+The game was not over yet...
